@@ -1,0 +1,105 @@
+GRSM: TOOL: SERC: TREE: DELA: TEAK: YELL: GUAN: KONZ: SJER: OAES: TALL: NOGP: KONA: STER: DCFS: BARR: JERC: UKFS: SRER: BONA: RMNP: ONAQ: NIWO: CLBJ: ''''''''''''''''''''''''''''''''''''''''''''''''''''''''.'''''''''''''''''''''..'''''''''''''.''''.''''''''''''''''.''''''.'''''''''''''''''''''.'''''''''''''''''''''''''''.'''.'''''.''''.'.'''''''''''.'.'''''''''''''''''''.''''''''''''''''''''''''''''.'''''''.''.'''''.'''..''''...'''''''.'''.........................................................................................'.................................................................................'.................................................................................................'................................................'..................................................................................................................................................................................'.................*
+SOAP: '''''.'''''........................'..........................'.............................................'......................................................*
+OSBS: ''''.'.''''.'..................................................................'....................................................................................................*
+STEI: .''''''''''.............................................................................'........................*
+ABBY: '''.''..'''''............'.*
+WREF: .'''''''.'.''.'.''.'''''.''.......................*
+JORN: ''''.........*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/numpy/lib/nanfunctions.py:1114: RuntimeWarning: All-NaN slice encountered
+  overwrite_input=overwrite_input)
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+........................................................................................*
+WOOD: ''.''.'''''''..............................*
+DSNY: '''''''.''.''''.''''........*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+*
+MOAB: '''''''.''...........................................................'.........'''''''...............................................................................................................................................................................................................................*
+UNDE: ''''.'''.'''..............*
+MLBS: .''''''.'.'''...........*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+..................................................................................................'..*
+.*
+LENO: '.''''''.'.''.'...................................................................................'.*
+HEAL: '*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+''''''''...................*
+SCBI: '.............*
+DEJU: ''''..........................................*
+LAJA: '.''.''''''./stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+Traceback (most recent call last):
+  File "add_grads.py", line 167, in <module>
+    Tp[:,j]=fp_in[site+'/dp01/data/tempAirLvl/000_0'+str(j+1)+'0_30m/temp']['mean'][:]
+ValueError: could not broadcast input array from shape (1489) into shape (1488)
+..''.*
+HARV: .'''''.'''''.*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/numpy/lib/nanfunctions.py:1114: RuntimeWarning: All-NaN slice encountered
+  overwrite_input=overwrite_input)
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+.......'...*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+.'.........................*
+ORNL: '''..''.''.'''..........*
+BART: '..................................*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+..............'.......'..............'......................................''......*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+..........*
+BLAN: '''.................................'....'...........'..........................*
+CPER: '.'''''''''................................*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+.......................................................'.........................*
+........................................................................................................................................................................................*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/numpy/lib/nanfunctions.py:1114: RuntimeWarning: All-NaN slice encountered
+  overwrite_input=overwrite_input)
+..*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/numpy/lib/nanfunctions.py:1114: RuntimeWarning: All-NaN slice encountered
+  overwrite_input=overwrite_input)
+............*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/numpy/lib/nanfunctions.py:1114: RuntimeWarning: All-NaN slice encountered
+  overwrite_input=overwrite_input)
+..............'.......................................*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+.....*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+......................'........................*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/numpy/lib/nanfunctions.py:1114: RuntimeWarning: All-NaN slice encountered
+  overwrite_input=overwrite_input)
+..*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/numpy/lib/nanfunctions.py:1114: RuntimeWarning: All-NaN slice encountered
+  overwrite_input=overwrite_input)
+.........*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+...........................................*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+..................*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)
+................*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/numpy/lib/nanfunctions.py:1114: RuntimeWarning: All-NaN slice encountered
+  overwrite_input=overwrite_input)
+.*
+/stor/soteria/hydro/private/tsw35/software/miniconda/lib/python3.7/site-packages/scipy/optimize/minpack.py:829: OptimizeWarning: Covariance of the parameters could not be estimated
+  category=OptimizeWarning)

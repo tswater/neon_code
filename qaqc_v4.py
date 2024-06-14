@@ -38,12 +38,12 @@ opt_precip      = True  # exclude points with precipitation
 opt_freeze      = True  # exclude points below freezing
 opt_EBdaily   = False  # True for daily EB, false for point EB (requires G)
 opt_EBpct_min = 0
-opt_EBpct      = .2    # Energy balance closure residual max
+opt_EBpct      = .25   # Energy balance closure residual max
 opt_minpoints = 50    # Minimum number of points in a site to be included
 opt_minrad    = 0 #100
 
 # Directories
-in_dir  = '/home/tsw35/soteria/data/eddy_v2/L2/'
+in_dir  = '/home/tsw35/soteria/data/eddy_v2/old/'
 out_dir = 'data/'
 
 # --------- #
@@ -141,12 +141,27 @@ for file in sites:
     points[file].append(np.sum(mask))
     
     # ADD DATA
+
     for var in fp_in.keys():
         if var == 'canopy_heights':
             continue
         if var == 'HSS_FILTER':
             continue
         if var == 'vertical_wind':
+            maxh=0
+            maxhn=''
+            for v2 in fp_in['vertical_wind'].keys():
+                if float(v2[5:])>=maxh:
+                    maxhn=v2
+                    maxh=float(v2[5:])
+            v2=maxhn
+            if 'WIND_2' not in var_stor.keys():
+                var_stor['WIND_2']=[]
+            var_stor['WIND_2'].extend(fp_in[var][v2][mask])
+            if 'W2_HEIGHT' not in var_stor.keys():
+                var_stor['W2_HEIGHT']=[]
+            var_stor['W2_HEIGHT'].extend(np.ones((n,))[mask]*maxh)
+
             continue
         if var == 'SWCs':
             continue
@@ -183,7 +198,7 @@ for file in sites:
     site_var['site'].extend(([file[0:4]]*mask_len))
     print('...COMPLETE')
 # generate filename
-optstr='QAQCv4'
+optstr='QAQCv5'
 if opt_amf and opt_neon:
     optstr=optstr+'_both'
 elif opt_amf:

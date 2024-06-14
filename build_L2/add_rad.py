@@ -19,7 +19,7 @@ size = comm.Get_size()
 # CONSTANTS AND INPUTS #
 # -------------------- #
 neon_dir   = '/home/tsw35/soteria/data/NEON/netrad/'
-base_dir   = '../../L2/'
+base_dir   ='/home/tsw35/soteria/data/eddy_v2/lst/'
 day_thresh = 50
 
 # -------------- #

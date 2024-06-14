@@ -17,11 +17,11 @@ import subprocess
 # ----------------------------- #
 start_year=2016
 start_month=11
-end_year=2020
-end_month=8
-end_day=31
-neon_dir='../../../NEON/raw_data/'
-out_dir='../../L2/'
+end_year=2022
+end_month=4
+end_day=30
+neon_dir='/home/tsw35/soteria/data/NEON/raw_data/'
+out_dir='/home/tsw35/soteria/data/eddy_v2/lst/'
 replace=True
 
 # ------------------- #

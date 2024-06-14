@@ -4,7 +4,7 @@ import subprocess
 import h5py
 import datetime
 
-base_dir='../../L2/'
+base_dir   = '/home/tsw35/soteria/data/eddy_v2/old/'
 sites=  os.listdir(base_dir)
 
 method = 0 # 0 is average 123, 1 is 12, 2 is 23
@@ -16,7 +16,7 @@ zd12={}
 zd23={}
 zd13={}
 
-#sites=['LAJA']
+sites=['ABBY']
 for file in sites:
     site=file[0:4]
     print(site)

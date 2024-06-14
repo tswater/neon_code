@@ -19,8 +19,7 @@ size = comm.Get_size()
 # CONSTANTS AND INPUTS #
 # -------------------- #
 neon_dir   = '/home/tsw35/soteria/data/NEON/wind_2d/'
-base_dir   = '../../L2/'
-
+base_dir = '/home/tsw35/soteria/data/eddy_v2/lst/'
 
 # -------------- #
 # MAIN CODE LOOP #

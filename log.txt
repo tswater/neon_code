@@ -1,8 +1,98 @@
-latlons loaded
-Starting Loading in Raster Data
-2017:.........................................................................................................................................................................................................................................................................................................................................................................................
-2017:............................................................................................................................................................................................................................................................................................................................................................................................
-2017:......................................................................................................................................................................................................................
-2017:...........................................................................................................................................................................................................................................................................................................................................................................................
-2017:..............................................................................................
-Raster Data Loaded
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+python: can't open file 'create_pickles.py': [Errno 2] No such file or directory
+
+real	0m0.458s
+user	0m0.002s
+sys	0m0.013s
